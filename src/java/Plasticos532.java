@@ -1,4 +1,5 @@
-public class Plasticos {
+package java;
+public class Plasticos532 {
     static java.util.Scanner s = new java.util.Scanner(System.in);
 
     private static int pesoPlastico(int n, int t) {
