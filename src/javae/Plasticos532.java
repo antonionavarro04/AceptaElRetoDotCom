@@ -1,4 +1,4 @@
-package java;
+package javae;
 public class Plasticos532 {
     static java.util.Scanner s = new java.util.Scanner(System.in);
 

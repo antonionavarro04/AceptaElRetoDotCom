@@ -1,4 +1,4 @@
-package java;
+package javae;
 import java.util.InputMismatchException;
 public class Kaprekar {
     static java.util.Scanner in;
